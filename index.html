@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Métricas de Avaliação Interativas</title>
+<link rel="stylesheet" href="style.css">
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+
+<header>
+    <h1>📊 Cálculo Interativo de Métricas</h1>
+    <p>Insira os valores da matriz de confusão e visualize métricas e gráficos</p>
+</header>
+
+<div class="container">
+    <h2>📥 Insira os valores da Matriz de Confusão</h2>
+
+    <label for="vp">Verdadeiros Positivos (VP):</label>
+    <input type="number" id="vp" value="50">
+
+    <label for="vn">Verdadeiros Negativos (VN):</label>
+    <input type="number" id="vn" value="40">
+
+    <label for="fp">Falsos Positivos (FP):</label>
+    <input type="number" id="fp" value="5">
+
+    <label for="fn">Falsos Negativos (FN):</label>
+    <input type="number" id="fn" value="5">
+
+    <button id="btnCalcular">Calcular Métricas</button>
+
+    <div id="tabela-resultados"></div>
+    <div class="interpretacao" id="interpretacao"></div>
+
+    <canvas id="grafico" style="margin-top:30px;"></canvas>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
