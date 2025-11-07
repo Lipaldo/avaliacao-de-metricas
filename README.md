@@ -1,8 +1,4 @@
 # avaliacao-de-metricas
-Aqui está um **README profissional, organizado e pronto para colocar no GitHub**, destacando tecnologias utilizadas, aprendizado e resultado do projeto — baseado no contexto do Bootcamp DIO e da avaliação de métricas com Rede Neural Artificial:
-
----
-
 # 📊 Avaliação de Métricas — Projeto de Deep Learning
 
 Este repositório contém a implementação de um projeto desenvolvido durante o **Bootcamp de Deep Learning da DIO**, cujo objetivo foi **avaliar métricas de desempenho de um modelo de Rede Neural Artificial** aplicado a um conjunto de dados real.
