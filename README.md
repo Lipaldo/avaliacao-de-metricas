@@ -88,11 +88,3 @@ O projeto cumpriu o objetivo de consolidar conhecimentos fundamentais em **deep 
 Este projeto foi essencial para reforçar conhecimentos de Machine Learning e Deep Learning, com foco especial em **como avaliar corretamente um modelo treinado**.
 A prática com métricas reais e dados reais permitiu compreender não só o treinamento da RNA, mas principalmente a **qualidade das previsões**.
 
-Se quiser, posso:
-
-✅ adicionar um badge de tecnologias
-✅ complementar com gráficos ou resultados reais
-✅ traduzir para inglês
-✅ deixar no formato Markdown com emojis ajustados
-
-Só pedir!
